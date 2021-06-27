@@ -8,10 +8,10 @@
 </head>
 <body>
 	<h1>My name is sachin</h1>
-	<Form action="add">
-		Enter 1'st number : <input type="text" name="num1"><br>
-		Enter 2'nd number : <input type="text" name="num1"><br> <input
-			type="submit">
+	<Form action="addAlian">
+		Enter 1'st number : <input type="text" name="aid"><br>
+		Enter 2'nd number : <input type="text" name="aname"><br> 
+		<input type="submit">
 	</Form>
 </body>
 </html>
